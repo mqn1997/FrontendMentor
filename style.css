@@ -380,3 +380,18 @@ p{
     text-align: center;
     font-weight: 400;
 }
+@media screen and (max-width:375px) {
+.qr-code{
+    margin-left: 30px;
+    height: 500px;
+    width: 300px;
+ }
+ img{
+    height: 250px;
+    width: 250px;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-top: 25px;
+
+ }
+}
